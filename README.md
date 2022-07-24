@@ -1,6 +1,6 @@
 # Embedded-Systems-Lab3
 Assignment provided by Embedded Systems (ECGR 3101)
-This project was performed using a board EK-TM4C123GXL and Energia IDE
+This project was performed using a board EK-TM4C123GXL and Code Composer Studio
 
 LYNX Blue Line Extension 
 The 9.3-mile LYNX Rapid Transit Service Blue Line Extension provides light rail that and the University City area. It was planned to carry its first paying passengers in [August 2012] [August 2017] [March 16th, 2018] end of Spring 2018.  (It is about to celebrate its three year anniversary.) At a total cost of about $1.2 billion, city leaders hope that the new leg of the Blue Line will do more than move people from Point A to Point B. Let's do a project based on this new infrastructure.
