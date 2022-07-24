@@ -1,4 +1,5 @@
 # Embedded-Systems-Lab3
+Assignment provided by Embedded Systems (ECGR 3101)
 This project was performed using a board EK-TM4C123GXL and Energia IDE
 
 LYNX Blue Line Extension 
